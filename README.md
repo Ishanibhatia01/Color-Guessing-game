@@ -1,1 +1,2 @@
 # Color Guesing game
+This is Color Guessing  Game based on html,css and javascript .It is based on the RGB color coding .Since the mixture of Red and Green gives yellow , The mixture of Red and blue gives purple , The mixture of  Blue and Green gives cyan color. This is based on the two modes hard and easy mode.The player has to click a color that should match with the  randomly generated color.The player can change the  colors with the help of new colors .If it match witch all squares will be of the same color.The  easy mode has three colors only. 
